@@ -1,0 +1,33 @@
+{
+  "crawl_time": "2025-12-05T13:42:40.122356",
+  "summary": {
+    "total_articles": 50,
+    "total_categories": 5,
+    "articles_with_full_info": 0,
+    "articles_with_author": 0,
+    "articles_with_date": 0,
+    "articles_missing_info": 50
+  },
+  "by_category": {
+    "thoi_su": {
+      "name": "Thời sự",
+      "count": 10
+    },
+    "kinh_te": {
+      "name": "Kinh tế",
+      "count": 10
+    },
+    "giao_duc": {
+      "name": "Giáo dục",
+      "count": 10
+    },
+    "cong_nghe": {
+      "name": "Công nghệ",
+      "count": 10
+    },
+    "the_thao": {
+      "name": "Thể thao",
+      "count": 10
+    }
+  }
+}

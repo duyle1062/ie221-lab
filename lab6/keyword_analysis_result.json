@@ -1,0 +1,135 @@
+{
+  "total_articles": 50,
+  "total_words": 751,
+  "total_filtered_words": 665,
+  "unique_words": 457,
+  "top_15_keywords": [
+    {
+      "rank": 1,
+      "keyword": "nam",
+      "frequency": 9
+    },
+    {
+      "rank": 2,
+      "keyword": "tp",
+      "frequency": 6
+    },
+    {
+      "rank": 3,
+      "keyword": "hcm",
+      "frequency": 6
+    },
+    {
+      "rank": 4,
+      "keyword": "2025",
+      "frequency": 6
+    },
+    {
+      "rank": 5,
+      "keyword": "thế",
+      "frequency": 6
+    },
+    {
+      "rank": 6,
+      "keyword": "học",
+      "frequency": 6
+    },
+    {
+      "rank": 7,
+      "keyword": "sinh",
+      "frequency": 6
+    },
+    {
+      "rank": 8,
+      "keyword": "việt",
+      "frequency": 6
+    },
+    {
+      "rank": 9,
+      "keyword": "nào",
+      "frequency": 5
+    },
+    {
+      "rank": 10,
+      "keyword": "cuối",
+      "frequency": 5
+    },
+    {
+      "rank": 11,
+      "keyword": "cầu",
+      "frequency": 4
+    },
+    {
+      "rank": 12,
+      "keyword": "giá",
+      "frequency": 4
+    },
+    {
+      "rank": 13,
+      "keyword": "hôm",
+      "frequency": 4
+    },
+    {
+      "rank": 14,
+      "keyword": "nay",
+      "frequency": 4
+    },
+    {
+      "rank": 15,
+      "keyword": "dùng",
+      "frequency": 4
+    }
+  ],
+  "all_keyword_frequencies": {
+    "nam": 9,
+    "tp": 6,
+    "hcm": 6,
+    "2025": 6,
+    "thế": 6,
+    "học": 6,
+    "sinh": 6,
+    "việt": 6,
+    "nào": 5,
+    "cuối": 5,
+    "cầu": 4,
+    "giá": 4,
+    "hôm": 4,
+    "nay": 4,
+    "dùng": 4,
+    "cho": 4,
+    "năng": 4,
+    "nghiệp": 4,
+    "đường": 3,
+    "gần": 3,
+    "cơ": 3,
+    "lũ": 3,
+    "đất": 3,
+    "trong": 3,
+    "số": 3,
+    "tác": 3,
+    "báo": 3,
+    "mất": 3,
+    "tuyển": 3,
+    "năm": 3,
+    "đồng": 3,
+    "công": 3,
+    "dân": 3,
+    "sức": 3,
+    "sắp": 3,
+    "12": 3,
+    "lên": 3,
+    "thị": 3,
+    "thi": 3,
+    "trước": 3,
+    "hội": 3,
+    "với": 3,
+    "quốc": 3,
+    "trải": 3,
+    "nghiệm": 3,
+    "đấu": 3,
+    "sea": 3,
+    "games": 3,
+    "23": 3,
+    "malaysia": 3
+  }
+}

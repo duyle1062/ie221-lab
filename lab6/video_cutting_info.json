@@ -1,0 +1,18 @@
+{
+  "video": {
+    "filename": "sample_video.mp4",
+    "width": 640,
+    "height": 480,
+    "fps": 20,
+    "total_frames": 100,
+    "duration": 5.0,
+    "file_size_mb": 0.6843643188476562
+  },
+  "segments": {
+    "total": 1,
+    "duration_per_segment": 10,
+    "files": [
+      "video_segment_01.mp4"
+    ]
+  }
+}
